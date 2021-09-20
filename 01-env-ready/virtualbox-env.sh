@@ -1,14 +1,10 @@
 #!/bin/bash
 
-# 系统环境： 
-# cat /etc/lsb_release
+# 系统环境： cat /etc/lsb_release
 # DISTRIB_ID=Ubuntu
 # DISTRIB_RELEASE=20.04
 # DISTRIB_CODENAME=focal
 # DISTRIB_DESCRIPTION="Ubuntu 20.04.3 LTS"
-
-# uname -a
-# Linux timscm 5.11.0-34-generic #36~20.04.1-Ubuntu SMP Fri Aug 27 08:06:32 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
 
 # 官网下载 VirtualBox
 # https://www.virtualbox.org/wiki/Linux_Downloads
@@ -85,3 +81,4 @@ VBoxManage startvm myos
 
 # GNU GRUB version 2.04
 # *myos
+
