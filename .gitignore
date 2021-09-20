@@ -1,3 +1,7 @@
+cosmos/
+cosmos.git.tar.gz
+*.swp
+
 # Prerequisites
 *.d
 
